@@ -9,6 +9,7 @@ void displayBits( unsigned int value );
 void unpackCharacters(unsigned int x);
 
 int main(int argc, char const *argv[]) {
+    printf("Question-1\n");
     char characters[4];
     printf("input: ");
     scanf("%s", characters);
@@ -21,6 +22,8 @@ int main(int argc, char const *argv[]) {
     unsigned int char_bits = packCharacters(characters);
     printf("After packed: ");
     displayBits(char_bits);
+
+    printf("\nQuestion-2\n");
 
     printf("\nOur unsigned int: %u\n",char_bits);
 
