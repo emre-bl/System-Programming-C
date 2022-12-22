@@ -1,3 +1,1 @@
-# System-Programming-C-homeworks
- 
-TOBB ETU'de aldığım Sistem Programlama (BIL214) dersine ait verilen haftalık ödevlerin çözümleri
+ **Solutions to the weekly tasks I completed in TOBB ETU's System Programming (BIL 214) course**
